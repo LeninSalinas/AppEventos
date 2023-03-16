@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fin_event"
+        android:title="@string/finalizar_evento" />
+    <item
+        android:id="@+id/del_event"
+        android:title="@string/borrar_evento" />
+</menu>

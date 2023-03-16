@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fecha_del_evento">fecha del evento</string>
+    <string name="expositor">Expositor</string>
+    <string name="estado_del_evento">Estado del evento</string>
+    <string name="tema_de_conferencia">Tema de conferencia</string>
+    <string name="borrar_todos_los_eventos">Borrar todos los eventos</string>
+    <string name="cancel">Cancel</string>
+</resources>
